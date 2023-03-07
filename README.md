@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning more about JS and Angular.  
   
 
-- 👨‍💻 My Portfolio [kevin-schimke.de](kevin-schimke.de)  
+- 👨‍💻 My Portfolio [kevin-schimke.de](https://kevin-schimke.de)  
   
 
 - 📫 How to reach me **kontakt@kevin-schimke.de**  
